@@ -4,3 +4,4 @@ test
 test
 test
 foo
+bar
